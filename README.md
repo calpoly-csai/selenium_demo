@@ -16,4 +16,3 @@ For todays workshop, please download GeckoDriver, found at this [link](https://g
 We'll be using Firefox as our browser of choice. 
 
 ---
-
