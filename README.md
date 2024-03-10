@@ -5,6 +5,8 @@ In this repository you'll find:
 
 * A starting script for our demo
 
+### To see the completed script, check out our 'test' branch
+
 
 ### Installing WebDrivers
 
